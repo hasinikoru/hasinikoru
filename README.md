@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hasinikoru
+- 👋 Hi, I’m @hasini
 - 👀 I’m actually exploring things
 - 🌱 I’m currently learning to code in Python
 - 💞️ I’m looking to collaborate on projects related to python
